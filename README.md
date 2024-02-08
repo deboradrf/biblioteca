@@ -15,7 +15,7 @@ Projeto desenvolvido para disciplina de Desenvolvimento de Interfaces Web, do cu
 ``2`` Exibir listagem dos livros cadastrados. <br>
 ``3`` Editar um livro. <br>
 ``4`` Excluír um livro. <br>
-``5`` Botão para consultar um livro pelo nome.
+``5`` Botão para consultar um livro pelo nome. <br>
 ``6`` Filtrar livros por gênero.
 
 ## ✔️ Tecnologias utilizadas
@@ -27,4 +27,4 @@ Projeto desenvolvido para disciplina de Desenvolvimento de Interfaces Web, do cu
 
 ## 📁 Acesso ao projeto
 Hospedado no Netlify <br>
-Link: 
+Link: https://biblioteca-deboradrf.netlify.app
