@@ -8,7 +8,7 @@
 Projeto desenvolvido para disciplina de Desenvolvimento de Interfaces Web, do curso de Análise e Desenvolvimento de Sistemas, que simula uma biblioteca para controle de livros.
 
 ## 🎨 Layout
-<img src="https://github.com/deboradrf/biblioteca/assets/130398684/0137eec9-e3ab-4e1e-aa58-12c92b065c82">
+<img src="https://github.com/user-attachments/assets/2bc89ea2-469f-495f-b4e7-b1366dac60ac">
 
 ## ⚙️ Funcionalidades
 ``1`` Cadastro de livros (título, autor, gênero, edição, ano, número de páginas, emprestado - sim/não). <br>
