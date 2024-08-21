@@ -26,5 +26,4 @@ Projeto desenvolvido para disciplina de Desenvolvimento de Interfaces Web, do cu
 - ``JavaScript``
 
 ## 📁 Acesso ao projeto
-Hospedado no Netlify <br>
-Link: https://biblioteca-deboradrf.netlify.app
+Hospedado no Netlify `https://biblioteca-deboradrf.netlify.app`
