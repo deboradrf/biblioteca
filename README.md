@@ -11,19 +11,19 @@ Projeto desenvolvido para disciplina de Desenvolvimento de Interfaces Web, do cu
 <img src="https://github.com/user-attachments/assets/2bc89ea2-469f-495f-b4e7-b1366dac60ac">
 
 ### ⚙️ Funcionalidades
-``1`` Cadastro de livros (título, autor, gênero, edição, ano, número de páginas, emprestado - sim/não). <br>
-``2`` Exibir listagem dos livros cadastrados. <br>
-``3`` Editar um livro. <br>
-``4`` Excluír um livro. <br>
-``5`` Botão para consultar um livro pelo nome. <br>
-``6`` Filtrar livros por gênero.
+- Cadastro de livros (título, autor, gênero, edição, ano, número de páginas, emprestado - sim/não). <br>
+- Exibir listagem dos livros cadastrados. <br>
+- Editar um livro. <br>
+- Excluír um livro. <br>
+- Botão para consultar um livro pelo nome. <br>
+- Filtrar livros por gênero.
 
 ### ✔️ Tecnologias utilizadas
-- ``Visual Studio Code``
-- ``HTML``
-- ``CSS``
-- ``Bootstrap``
-- ``JavaScript``
+- Visual Studio Code
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
 
 ### 📁 Acesso ao projeto
 Hospedado no Netlify `https://biblioteca-deboradrf.netlify.app`
